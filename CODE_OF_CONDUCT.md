@@ -1,0 +1,1 @@
+This project uses the [the Node.js Code of Conduct](https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md).
